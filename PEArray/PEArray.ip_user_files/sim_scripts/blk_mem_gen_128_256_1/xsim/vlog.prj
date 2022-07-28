@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../PEArray.srcs/sources_1/ip/blk_mem_gen_128_256_1/sim/blk_mem_gen_128_256.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
